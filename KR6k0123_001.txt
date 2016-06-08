@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:44.175636
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:08
 #+TITLE: 菩薩戒本
 #+PROPERTY: CBETA_ID T24n1501
 #+PROPERTY: ID KR6k0123
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1501
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0123_T_001-1110b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1501¶
-
- 《菩薩戒本》(出《瑜伽論．本事分》中菩薩地)¶
+No. 1501¶
+《菩薩戒本》(出《瑜伽論．本事分》中菩薩地)¶
 ¶
 彌勒菩薩說¶
 沙門玄奘奉　詔譯¶
@@ -195,8 +194,7 @@ No.1501¶
 
 若諸菩薩安住菩薩淨戒律儀，善權方便，為¶
 利他故，於諸性罪少分現行，由是因緣，於菩¶
-薩戒無所違犯，生多功德。謂如菩薩，見惡¶
-劫賊為貪財故，欲殺多生，或復欲害大德聲¶
+薩戒無所違犯，生多功德。謂如菩薩，見惡劫賊為貪財故，欲殺多生，或復欲害大德聲¶
 聞、獨覺、菩薩，或復欲造多無間業。見是事已，¶
 發心思惟：「我若斷彼惡眾生命，墮那落迦，如¶
 其不斷，無間業成當受大苦，我寧殺彼墮¶
